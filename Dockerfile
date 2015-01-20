@@ -1,3 +1,4 @@
+FROM ubuntu:14.04
 MAINTAINER John Moberly "john@example.com"
 ENV REFRESHED_AT 2015_01_20
 RUN apt-get update
